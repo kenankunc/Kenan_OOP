@@ -13,6 +13,7 @@ public class Main {
         int wage = employee.calculateWage(100);
         System.out.println("wage : "+ wage);
         System.out.println("wage : "+ wage);
+        System.out.println("wage : "+ wage);
 
 
 
