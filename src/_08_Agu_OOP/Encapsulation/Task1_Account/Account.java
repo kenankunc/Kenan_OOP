@@ -1,4 +1,4 @@
-package _08_Agu_OOP.Encapsulation;
+package _08_Agu_OOP.Encapsulation.Task1_Account;
 
 public class Account {
 

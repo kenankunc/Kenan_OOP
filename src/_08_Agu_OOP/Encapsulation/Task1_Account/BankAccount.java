@@ -1,4 +1,6 @@
-package _08_Agu_OOP.Encapsulation;
+package _08_Agu_OOP.Encapsulation.Task1_Account;
+
+import _08_Agu_OOP.Encapsulation.task2_enum_CurrencyEx.Currency;
 
 public class BankAccount {
 

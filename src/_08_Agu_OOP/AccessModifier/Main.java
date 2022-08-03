@@ -1,4 +1,4 @@
-package _08_Agu_OOP;
+package _08_Agu_OOP.AccessModifier;
 
 public class Main{
     public static void main(String[] args) {
