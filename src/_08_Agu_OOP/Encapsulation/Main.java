@@ -12,6 +12,7 @@ public class Main {
         System.out.println("Hourly Rate :" + employee.getHourlyRate());
         int wage = employee.calculateWage(100);
         System.out.println("wage : "+ wage);
+        System.out.println("wage : "+ wage);
 
 
 
