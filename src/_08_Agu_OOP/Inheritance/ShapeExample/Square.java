@@ -1,4 +1,4 @@
-package _08_Agu_OOP.Inheritance;
+package _08_Agu_OOP.Inheritance.ShapeExample;
 
 public class Square extends Rectangle {
     double side;
