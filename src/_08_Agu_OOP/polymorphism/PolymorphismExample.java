@@ -16,6 +16,7 @@ public class PolymorphismExample {
         // if we make  we will have done compiler time
         animal1.run(5);
         animal1.run(10,"miles");
+        animal2.run(11,"km");
 
 
     }
